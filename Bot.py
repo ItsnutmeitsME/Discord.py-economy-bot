@@ -520,4 +520,4 @@ async def coin(ctx, amount = None):
 
 
 ##Code Runner##
-client.run("NzU1NDAzNjQ2ODc0OTQzNTc4.X2CyeA.8uv8JcoK4aMsjAM_KE8Kf-uCJCo")
+client.run("insert bot token here")
